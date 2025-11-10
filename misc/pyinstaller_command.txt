@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon="images/notepadppp.ico" --add-data "C:/Users/Roadb/PycharmProjects/NotepadPPP/.venv/Lib/site-packages/customtkinter;customtkinter" Notepad+++.py
